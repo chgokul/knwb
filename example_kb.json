@@ -1,0 +1,415 @@
+{
+  "documents": [
+    {
+      "id": 0,
+      "title": "Python Programming",
+      "content": "Python is a high-level, interpreted programming language known for its simplicity."
+    },
+    {
+      "id": 1,
+      "title": "Machine Learning",
+      "content": "Machine learning is a subset of artificial intelligence that enables systems to learn."
+    },
+    {
+      "id": 2,
+      "title": "Data Science",
+      "content": "Data science combines statistics, data analysis, and machine learning."
+    },
+    {
+      "id": 3,
+      "title": "Web Development",
+      "content": "Web development involves creating websites using HTML, CSS, and JavaScript."
+    }
+  ],
+  "index": {
+    "python": [
+      [
+        0,
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "programming": [
+      [
+        0,
+        [
+          1,
+          8
+        ]
+      ]
+    ],
+    "is": [
+      [
+        0,
+        [
+          3
+        ]
+      ],
+      [
+        1,
+        [
+          4
+        ]
+      ]
+    ],
+    "a": [
+      [
+        0,
+        [
+          4
+        ]
+      ],
+      [
+        1,
+        [
+          5
+        ]
+      ]
+    ],
+    "high": [
+      [
+        0,
+        [
+          5
+        ]
+      ]
+    ],
+    "level": [
+      [
+        0,
+        [
+          6
+        ]
+      ]
+    ],
+    "interpreted": [
+      [
+        0,
+        [
+          7
+        ]
+      ]
+    ],
+    "language": [
+      [
+        0,
+        [
+          9
+        ]
+      ]
+    ],
+    "known": [
+      [
+        0,
+        [
+          10
+        ]
+      ]
+    ],
+    "for": [
+      [
+        0,
+        [
+          11
+        ]
+      ]
+    ],
+    "its": [
+      [
+        0,
+        [
+          12
+        ]
+      ]
+    ],
+    "simplicity": [
+      [
+        0,
+        [
+          13
+        ]
+      ]
+    ],
+    "machine": [
+      [
+        1,
+        [
+          0,
+          2
+        ]
+      ],
+      [
+        2,
+        [
+          9
+        ]
+      ]
+    ],
+    "learning": [
+      [
+        1,
+        [
+          1,
+          3
+        ]
+      ],
+      [
+        2,
+        [
+          10
+        ]
+      ]
+    ],
+    "subset": [
+      [
+        1,
+        [
+          6
+        ]
+      ]
+    ],
+    "of": [
+      [
+        1,
+        [
+          7
+        ]
+      ]
+    ],
+    "artificial": [
+      [
+        1,
+        [
+          8
+        ]
+      ]
+    ],
+    "intelligence": [
+      [
+        1,
+        [
+          9
+        ]
+      ]
+    ],
+    "that": [
+      [
+        1,
+        [
+          10
+        ]
+      ]
+    ],
+    "enables": [
+      [
+        1,
+        [
+          11
+        ]
+      ]
+    ],
+    "systems": [
+      [
+        1,
+        [
+          12
+        ]
+      ]
+    ],
+    "to": [
+      [
+        1,
+        [
+          13
+        ]
+      ]
+    ],
+    "learn": [
+      [
+        1,
+        [
+          14
+        ]
+      ]
+    ],
+    "data": [
+      [
+        2,
+        [
+          0,
+          2,
+          6
+        ]
+      ]
+    ],
+    "science": [
+      [
+        2,
+        [
+          1,
+          3
+        ]
+      ]
+    ],
+    "combines": [
+      [
+        2,
+        [
+          4
+        ]
+      ]
+    ],
+    "statistics": [
+      [
+        2,
+        [
+          5
+        ]
+      ]
+    ],
+    "analysis": [
+      [
+        2,
+        [
+          7
+        ]
+      ]
+    ],
+    "and": [
+      [
+        2,
+        [
+          8
+        ]
+      ],
+      [
+        3,
+        [
+          10
+        ]
+      ]
+    ],
+    "web": [
+      [
+        3,
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "development": [
+      [
+        3,
+        [
+          1,
+          3
+        ]
+      ]
+    ],
+    "involves": [
+      [
+        3,
+        [
+          4
+        ]
+      ]
+    ],
+    "creating": [
+      [
+        3,
+        [
+          5
+        ]
+      ]
+    ],
+    "websites": [
+      [
+        3,
+        [
+          6
+        ]
+      ]
+    ],
+    "using": [
+      [
+        3,
+        [
+          7
+        ]
+      ]
+    ],
+    "html": [
+      [
+        3,
+        [
+          8
+        ]
+      ]
+    ],
+    "css": [
+      [
+        3,
+        [
+          9
+        ]
+      ]
+    ],
+    "javascript": [
+      [
+        3,
+        [
+          11
+        ]
+      ]
+    ]
+  },
+  "doc_freq": {
+    "python": 1,
+    "programming": 1,
+    "is": 2,
+    "a": 2,
+    "high": 1,
+    "level": 1,
+    "interpreted": 1,
+    "language": 1,
+    "known": 1,
+    "for": 1,
+    "its": 1,
+    "simplicity": 1,
+    "machine": 2,
+    "learning": 2,
+    "subset": 1,
+    "of": 1,
+    "artificial": 1,
+    "intelligence": 1,
+    "that": 1,
+    "enables": 1,
+    "systems": 1,
+    "to": 1,
+    "learn": 1,
+    "data": 1,
+    "science": 1,
+    "combines": 1,
+    "statistics": 1,
+    "analysis": 1,
+    "and": 2,
+    "web": 1,
+    "development": 1,
+    "involves": 1,
+    "creating": 1,
+    "websites": 1,
+    "using": 1,
+    "html": 1,
+    "css": 1,
+    "javascript": 1
+  },
+  "doc_lengths": [
+    14,
+    15,
+    11,
+    12
+  ]
+}
